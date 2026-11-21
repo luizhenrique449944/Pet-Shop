@@ -30,21 +30,46 @@ Este projeto faz parte dos meus estudos na área de Desenvolvimento Web, com foc
 ## 📂 Estrutura do projeto
 
 ```text
-pet-shop/
+
+PET-BOUTIQUE/
 │
 ├── index.html
+│
+├── stylesheet.css
+│
+├── .gitignore
+│
 ├── README.md
 │
-├── css/
-│   └── style.css
-│
-├── images/
-│   ├── logo.png
-│   ├── dogs/
-│   └── cats/
-│
-└── assets/
-    └── icons/
+└── IMG/
+    │
+    ├── pet-shop.png
+    ├── patas.png
+    ├── banho.png
+    ├── veterinario.png
+    ├── dog-walker.png
+    ├── creche.png
+    ├── loja.png
+    │
+    ├── redes-sociais/
+    │   ├── facebook-svgrepo-com.png
+    │   ├── instagram-svgrepo-com.png
+    │   └── whatsapp-svgrepo-com.png
+    │
+    └── marcas/
+        ├── AlfaPet.png
+        ├── BichinhoChic.png
+        ├── Boehringer.png
+        ├── Inataa.png
+        ├── LogoBiofresh.png
+        ├── LogoBravecto.png
+        ├── NexgardSpectra.png
+        ├── Pickorruchos.png
+        ├── PapaPets.png
+        ├── royalcanini.png
+        ├── saopet.png
+        └── exopets.png
+
 ```
 
 ## 🚀 Como executar o projeto
