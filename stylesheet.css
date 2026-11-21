@@ -1,0 +1,176 @@
+/* Início do CSS Global */
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+   text-decoration: none;
+}
+.container{
+    max-width: 100%;
+    padding: 120px 80px;
+}
+.destaque {
+    font-weight: 700;
+    font-style: italic; 
+}
+h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+/* Fim do CSS Global */
+
+/* Inicio da Seção Banner */
+.primeiro-container {
+    width: 100%;
+    background-image: url('IMG/banner-topo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.largura-maxima {
+    max-width: 250px;
+    color: #3c184e;
+}
+.primeiro-paragrafo {
+  font-size: 35px;
+  margin: 0px 0px 5px 0px;
+}
+.primeiro-paragrafo img {
+    width: 30px;
+    margin-right: 5px;
+}
+.segundo-paragrafo {
+    font-size: 14px;
+    text-align: center;
+    margin: 0px;
+}
+.segundo-container {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0px;
+    background-color:#ffffffc4;
+    box-shadow: 0px 8px 32px #1f26875e;
+}
+.titulo-top {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0px 0px 40px 0px;
+}
+.paragrafo_segundoContainer {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0px auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center; 
+}
+.paragrafo_segundoContainer a {
+    color: #ffff;
+}
+.segundo-container img {
+    width: 20px;
+}
+/* Fim da Seção Banner*/
+
+/* Inicio da Seção Serviços */
+
+.container_servicos {
+    max-width: 800px;
+    margin: 0px auto 50px;
+    color: #3c184e;
+}
+.container_servicos li {
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+}
+.container_servicos_img {
+    max-width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+.container_servicos_img img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+/* Fim da Seção Serviços */
+
+/* Inicio da Seção Faixa */
+.faixa {
+    background-color: #3c184e;
+    text-align: center;
+}
+.texto_faixa {
+    max-width: 800px;
+    margin: 0px auto 50px;
+    font-size: 40px;
+    color: #fff; 
+    text-align: center;
+}
+.redes_sociais a{
+    margin: 0px 20px;
+}
+.redes_sociais img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Fim da Seção Faixa */
+
+/* Inicio da Seção marcas */
+
+.container_marcas {
+    max-width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.logo_marcas {
+    width: 140px;
+    height: 148px;
+    margin: 0px 15px;
+}
+
+/* Fim da Seção marcas */
+
+/* Inicio da Seção Onde Estamos */
+
+.onde_estamos {
+    text-align: center;
+}
+.onde_estamos p {
+    color: #3c184e;
+    font-size: 20px;
+    margin: 0px 0px 45px;
+}
+
+.onde_estamos iframe {
+    width: 800px;
+    height: 450px;
+}
+/* Fim da Seção Onde Estamos */
+
+/* Inicio da Seção Rodapé */
+
+.rodape {
+    background-color: #3c184e;
+    padding: 10px 0px;
+}
+.texto_rodape {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Fim da Seção Rodapé */
+
+
+
+
+
